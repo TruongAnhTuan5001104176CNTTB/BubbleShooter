@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AboutScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="HelpScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ScoresScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SettingsScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
